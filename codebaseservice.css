@@ -1,0 +1,210 @@
+
+.jpeg{
+    height: 26px;
+    width: 115px;
+    
+}
+.jpeg img{
+    height: 100%;
+    width: 100%;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 38px 29px 0 43px;
+}
+.applicant{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    padding-left: 300px;
+    
+    margin-left: 20px;
+}
+.applicant a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: #2b2a2f;
+}
+button {
+    font-weight: bold;
+    background-color: #4e0fea;
+    color: white;
+    border: 1px solid #4e0fea;
+    border-radius: 6px;
+    padding: 8px 31px;
+    font-size: 16px;
+}
+
+
+
+.level{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 142px;
+    top: -40px;
+    border: 2px solid #eeeeee;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.level img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    padding: 8px;
+}
+.stability{
+    height: 247px;
+    width: 370px;
+    border: 2px solid #eeeeee;
+    border-radius: 25px;
+    margin: 28px;
+}
+.rare{
+    display: flex;
+    
+}
+.stability h1{
+    font-size: 20px;
+    text-align: center;
+}
+.stability p{
+    text-align: center;
+    font-size: 15px;
+    padding: 2px 23px 0;
+}
+.level span{
+    color: #4719ff;
+    font-size: 55px;
+    position: absolute; 
+    border-radius: 50%;
+    padding: 0 17px;
+
+}
+.pressure span{
+    color: #4719ff;
+    font-size: 55px;
+    position: absolute; 
+    border-radius: 50%;
+    padding: 0 10px;
+
+}
+.goal span{
+    color: #4719ff;
+    font-size: 55px;
+    position: absolute; 
+    border-radius: 50%;
+    padding: 0 12px;
+
+}
+.reliable span{
+    color: #4719ff;
+    font-size: 55px;
+    position: absolute; 
+    border-radius: 50%;
+    padding: 0 14px;
+
+}
+.service{
+    height: 100%;
+    width: 100%;
+}
+.lead h1{
+    text-align: center;
+    padding: 85px 0;
+}
+
+
+
+
+.angular{
+    height: 100%;
+    width: 100%;
+    background-color: #6032ff;
+    text-align: center;
+}
+
+
+
+.solution{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    padding-top: 55px;
+}
+.discuss h3{
+    font-weight: 400;
+    font-size: 31px;
+}
+.discuss button{
+    font-weight: lighter;
+    font-size: 16px;
+    border-radius: 25px;
+    margin-top: 19px;
+}
+.discuss p{
+    padding-top: 14px;
+}
+
+
+
+
+
+
+
+
+.wrapper{
+    width: 100%;
+    height: 400px;
+    background-color: #4e0fea;
+}
+.reserved {
+    height: 124px;
+    width: 195px;
+    background-color: #4e0fea;
+}
+.reserved img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.drive{
+    /* background-color: aqua; */
+    padding: 86px 99px 0;
+}
+.load{
+    /* background-color: antiquewhite; */
+    padding: 15px 0px 0;
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    border-top: 1px solid #fff;
+    margin: 0 auto;
+}
+.box a {
+    color: #fff;
+    padding: 0 10px;
+    font-size: 25px;
+}
+.box h4 {
+    font-size: 12px;
+    font-weight: lighter;
+    color: #fff;
+    padding-top: 14px;
+}
+.box h5 {
+    font-weight: lighter;
+    font-size: 10px;
+    color: #c9c0c3;
+}
+.driver a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    padding: 9px;
+}

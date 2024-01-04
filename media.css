@@ -1,0 +1,287 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    header {
+        display: none;
+    }
+
+    .develop {
+        flex-direction: column-reverse;
+    }
+
+    .main {
+        flex-direction: column;
+        margin: 0;
+
+    }
+
+    .ex {
+        flex-direction: column;
+    }
+
+    .back {
+        flex-direction: column;
+    }
+
+    .talent h2 {
+        padding: 0;
+        font-size: unset;
+    }
+
+    .manage h1 {
+        font-size: 18px;
+    }
+
+    .manage p {
+        font-size: 14px;
+    }
+
+    .expert {
+        flex-direction: column;
+    }
+
+    .space {
+        width: unset;
+    }
+
+    .hand {
+        width: unset;
+        margin-bottom: 2rem;
+    }
+
+    .drive {
+        padding: unset;
+    }
+
+    .tap h1 {
+        padding: unset;
+    }
+
+    .load {
+        flex-direction: column;
+    }
+
+    .world {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .tap {
+        padding: unset;
+    }
+
+    .fit h1 {
+        font-size: unset;
+    }
+
+    .fit p {
+        font-size: unset;
+        padding: 10px 20px;
+    }
+
+    .reserved {
+        width: unset;
+    }
+
+    .world h2 {
+        font-size: unset;
+    }
+
+    .tapped button {
+        font-size: unset;
+    }
+
+    .potential button {
+        font-size: unset;
+    }
+
+    .right h2 {
+        font-weight: unset;
+        font-size: 25px;
+    }
+
+    .hire {
+        width: unset;
+        text-align: center;
+        margin: 0;
+    }
+
+    .code {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .image {
+        margin: 0 auto;
+    }
+
+    .fit {
+        flex-direction: column;
+        height: 246px;
+        text-align: center;
+        width: 252px;
+        margin: unset;
+        margin-top: 15px;
+    }
+
+    .pay {
+        padding-top: 11px;
+        width: 80px;
+        margin: 0 auto 10px;
+        font-size: 30px;
+
+    }
+
+    .manage {
+        width: 314px;
+        margin: 40px 0px 40px;
+
+    }
+
+    .como {
+        font-size: unset;
+    }
+
+    .money {
+        width: 314px;
+    }
+
+    .two,
+    .afford {
+        margin: 27px auto;
+    }
+
+    .three {
+        width: 319px;
+    }
+
+    .doc {
+        margin: 10px 15px;
+    }
+
+    .start {
+        font-size: unset;
+    }
+
+    .draw,
+    .coin,
+    .red,
+    .calender {
+        margin: 0 auto;
+    }
+
+    .blue {
+        margin: 7px auto;
+    }
+    .hire h1{
+        font-size: 32px;
+    }
+    /* .picart{
+        height: 250px;
+        margin-bottom: 15px;
+    } */
+
+
+
+    /* @codebase services  */
+
+    .rare{
+        flex-direction: column;
+    }
+    .stability{
+        height: unset;
+        width: unset;
+        margin: 0 0 4rem;
+    }
+    .angular{
+        height: unset;
+        width: unset;
+    }
+    .level{
+        left: 118px;
+    }
+    .stability p{
+        padding: 2px 23px 8px;
+    }
+
+
+
+
+    /* @codebase apply css */
+
+    .backup{
+        height: unset;
+        width: unset;
+    }
+    .backup h1{
+        font-size: unset;
+        padding-top: unset;
+    }
+    .view button{
+        height: unset;
+        font-size: unset;
+    }
+    .marketing h1{
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    .servers{
+        flex-direction: column;
+        text-align: center;
+    }
+    .servers button{
+        margin: 10px 0;
+    }
+    .container{
+        margin: 0;
+    }
+    .guard{
+        flex-direction: column;
+        height: unset;
+        width: unset;
+        margin: 0;
+        text-align: center;
+    }
+
+
+
+
+    /* @codebase form css */
+
+    .apple{
+        margin-left: 18px;
+    }
+    .apple input{
+        width: 139px;
+        height: 45px;
+    }
+    .four{
+        padding: 18px 0 0 20px;
+        /* <textarea name="" id="Message" cols="42" rows="6"></textarea> */
+    }
+    textarea#Message {
+        height: 110px;
+        width: 282px;
+    }
+    .window{
+        flex-direction: column;
+    }
+    .lake{
+        height: 398px;
+        width: 299px;
+        text-align: center;
+    }
+    .upload{
+        left: 80px;
+    }
+    
+    
+
+}
+
+@media all and (max-width:1230px)
+{
+    header{
+        display: none;
+
+    }
+}
